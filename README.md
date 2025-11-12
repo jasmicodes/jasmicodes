@@ -1,4 +1,4 @@
-# Hi there 👋
+### Hi there 👋
 
 I’m Jasmin — a business informatics student who fell in love with coding.
 By day I work in finance, by night I’m learning to build cool stuff in Java, Spring Boot, and JavaScript.
