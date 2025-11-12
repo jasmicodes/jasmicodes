@@ -5,3 +5,4 @@ By day I work in finance, by night I’m learning to build cool stuff in Java, S
 
 
 Fueled by coffee and music ☕🎧 — confused, but coding anyway. 💻
+My secret? - I do Bjj 
